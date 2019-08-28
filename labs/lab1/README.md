@@ -1,3 +1,1 @@
-<ol>
-  <li>This is Lab 1 for ITMD-361</li>
-</ol>
+This is my Lab 1 for ITMD-361</li>
